@@ -2,7 +2,7 @@ inherit kde4
 
 NAME="calligra-l10n-nl"
 VERSION=2.9.11
-RELEASE=1
+RELEASE=2
 CATEGORY="KDE"
 SUMMARY="Calligra Suite Dutch; Flemish translation files"
 DESCRIPTION="Calligra Suite Dutch; Flemish translation files"
